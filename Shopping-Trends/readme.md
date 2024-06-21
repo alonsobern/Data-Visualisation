@@ -1,9 +1,9 @@
 # Shopping Trends - Power BI
 
 ### 📝 Overview
-This dataset captures a wide range of customer attributes including age, gender, purchase history, preferred payment methods, frequency of purchases, and more. Analyzing this data can help businesses make informed decisions, optimize product offerings, and enhance customer satisfaction.
+This dataset captures a wide range of customer attributes including age, gender, purchase history, preferred payment methods, frequency of purchases, and more. Analysing this data can help businesses make informed decisions, optimize product offerings, and enhance customer satisfaction.
 
-Using Power BI, I've developed dashboards to analise the differents...
+Using Power BI, I have developed dashboards to get insights based on geographical analysis where can observe the states which purchase more with respect to gender, season, and more. In the same time we can obtain information about the preferences in relation to shipping type or purchase frequency.
 
 ### 📂 Data Source
 Customer Shopping Trends Dataset
