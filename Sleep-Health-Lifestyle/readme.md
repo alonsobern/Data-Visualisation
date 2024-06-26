@@ -16,7 +16,6 @@ Sleep Health and Lifestyle Dataset
 ### ✨ **Highlights**:
 - Comprehensive dataset analysis 
 - Detailed evaluation metrics and visualisations
-- 
 
 ### 📈 **Key Tasks**:
 - Data cleaning and preprocessing 
