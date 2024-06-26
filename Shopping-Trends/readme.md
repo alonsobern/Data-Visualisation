@@ -25,14 +25,14 @@ Customer Shopping Trends Dataset
 ### 📊 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐌𝐞𝐭𝐫𝐢𝐜𝐬 𝐄𝐱𝐩𝐥𝐨𝐫𝐞𝐝
 Geographical Analysis based on:
 - Total Purchase Amount
-- Average review rating, age, previous purchases
+- Average reviews ratings, age, previous purchases
 - Purchases by Gender
 
 Business Analysis based on:
 - Purchases frequency
-- Season Distribution
+- Season Distributions
 - Top 10 items purchased
 - Shipping types
-- Item categories
+- Items categories
 
 
