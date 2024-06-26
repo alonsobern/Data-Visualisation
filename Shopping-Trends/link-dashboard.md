@@ -1,4 +1,4 @@
 <a 
-  href="https://app.powerbi.com/reportEmbed?reportId=195db592-a595-4d37-8903-f5f007602bdd&autoAuth=true&ctid=c674c489-77bc-4e60-b365-b6cd72e47056" 
+  href="https://app.powerbi.com/view?r=eyJrIjoiZTg1OWEyZDMtNDBhZi00MDIxLTljYjMtN2Q0ODMzNDdmMTkzIiwidCI6ImFmZDE0ZGFhLWZlMWUtNGU1ZS04YWE2LTEyMjViZGVhMjE0NCIsImMiOjh9" 
   target="parent">Click to interact with the dashboard!
   </a>
