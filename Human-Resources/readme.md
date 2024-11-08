@@ -1,12 +1,12 @@
 # Human Resources - Power BI
 
 ### 📝 Overview
-This dataset captures a wide range of customer attributes including age, gender, purchase history, preferred payment methods, frequency of purchases, and more. Analysing this data can help businesses make informed decisions, optimize product offerings, and enhance customer satisfaction.
+This dataset contains information about employees in a company, including their work history, demographics, and employment-related factors in the context of human resources and employee management. This synthetic dataset mirrors the structure and characteristics of real employee data, while all the information contained within is entirely fictional and generated for illustrative purposes.
 
-Using Power BI, I have developed dashboards to get insights based on geographical analysis where can observe the states which more purchases with respect to gender, season, and more. At the same time we can obtain information about the preferences in relation to shipping types or purchases frequency.
+Using Power BI, I have developed dashboards to get insights based on demographics analysis where can observe the trends in terms of age, ethnicity, or gender through different departments or business units.
 
 ### 📂 Data Source
-Customer Shopping Trends Dataset
+Employee/HR Dataset
 
 ### 🛠️ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 - Power BI
@@ -23,14 +23,14 @@ Customer Shopping Trends Dataset
 - Visualisation of results
 
 ### 📊 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐌𝐞𝐭𝐫𝐢𝐜𝐬 𝐄𝐱𝐩𝐥𝐨𝐫𝐞𝐝
-Geographical Analysis based on:
-- Total Purchase Amount
-- Average reviews ratings, age, previous purchases
-- Purchases by Gender
+Overview Analysis based on:
+- Average Annual Salary by Business Units
+- Average Tenure by Departments
+- Top 10 The Longest Time Employee
+- Bonus to Salary Ratio
 
-Business Analysis based on:
-- Purchases frequency
-- Season Distributions
-- Top 10 items purchased
-- Shipping types
-- Items categories
+Demographics Analysis based on:
+- Gender Ratio
+- Average of Age
+- Bonus to Salary Ratio (Gender/Ethnicity)
+- Age Categories
