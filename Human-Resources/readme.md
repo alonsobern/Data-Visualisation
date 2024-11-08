@@ -24,7 +24,7 @@ Employee/HR Dataset
 
 ### 📊 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐌𝐞𝐭𝐫𝐢𝐜𝐬 𝐄𝐱𝐩𝐥𝐨𝐫𝐞𝐝
 Overview Analysis based on:
-- Average Annual Salary by Business Units
+- Average of Annual Salary by Business Units
 - Average Tenure by Departments
 - Top 10 The Longest Time Employee
 - Bonus to Salary Ratio
