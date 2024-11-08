@@ -26,7 +26,7 @@ Employee/HR Dataset
 Overview Analysis based on:
 - Average of Annual Salary by Business Units
 - Average Tenure by Departments
-- Top 10 The Longest Time Employee
+- Top 10 The Longest Time Employees
 - Bonus to Salary Ratio
 
 Demographics Analysis based on:
