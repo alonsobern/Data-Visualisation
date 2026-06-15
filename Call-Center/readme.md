@@ -301,7 +301,7 @@ Call-Center/
 - **Frequency:** First Friday of each month at 2:00 AM EST
 - **Duration:** Approximately 15-20 minutes
 - **Process:** Automated through Power BI Service scheduler
-- **Owner:** [Analytics Team Lead]
+- **Owner:** Alonso B.
 
 ### **Monthly Tasks**
 - Verify refresh completion
@@ -320,7 +320,7 @@ If data doesn't refresh:
 1. Check data source file location and accessibility
 2. Verify all required fields exist in source file
 3. Review Power BI Service refresh logs
-4. Contact [Analytics Team] for support
+4. Contact me for support
 
 ---
 
@@ -356,15 +356,9 @@ If data doesn't refresh:
 
 ## 📞 Support & Contact Information
 
-**Project Owner:** [Your Name]  
-**Title:** [Your Title]  
-**Email:** [Your Email]  
-**Phone:** [Your Phone Number]
-
-**Analytics Team:**  
-**Team Lead:** [Team Lead Name]  
-**Slack Channel:** #call-center-analytics  
-**Response Time:** Within 24 business hours
+**Project Owner:** Alonso  
+**Title:** Business and Data Analyst  
+**Email:** alonso.bernabeb@gmail.com
 
 **For Issues:**
 1. Check the Dashboard User Guide first
@@ -374,55 +368,6 @@ If data doesn't refresh:
 
 **Last Updated:** June 15, 2026  
 **Refresh Frequency:** Monthly (First Friday at 2:00 AM EST)
-
----
-
-## 📝 Version History
-
-| Version | Date | Author | Changes |
-|---------|------|--------|---------|
-| 1.0 | June 15, 2026 | [Your Name] | Initial dashboard launch with 3 main pages |
-| 1.1 | July 5, 2026 | [Your Name] | Added sentiment analysis dashboard; improved region filtering |
-| 1.2 | August 2, 2026 | [Your Name] | Enhanced CSAT visualizations; added forecast modeling |
-| 1.3 | Current | [Your Name] | Updated methodology docs; added NPS tracking |
-
----
-
-## 📄 License & Data Security
-
-### **License**
-This project is confidential and proprietary to [Your Organization]. Unauthorized reproduction, distribution, or use is prohibited.
-
-### **Data Handling**
-- All call center data is confidential and subject to [Your Organization] data retention policies
-- Dashboard access is restricted to authorized personnel only
-- Personal customer information is masked in visualizations
-- Data is encrypted in transit and at rest
-
-### **Compliance**
-- Compliant with [relevant regulations - GDPR, CCPA, etc.]
-- Regular security audits conducted
-- Access logs maintained for audit purposes
-- Data retention: [Specify your retention policy]
-
----
-
-## 🎓 Additional Resources
-
-### **Learning Materials**
-- [Power BI Desktop Documentation](https://docs.microsoft.com/en-us/power-bi/desktop-what-is-desktop)
-- [DAX Function Reference](https://docs.microsoft.com/en-us/dax/dax-function-reference)
-- [Dashboard Best Practices](https://docs.microsoft.com/en-us/power-bi/guidance/power-bi-report-design-tips)
-
-### **Internal Resources**
-- Data Governance Policy: [link]
-- Analytics Request Form: [link]
-- Power BI Admin Portal: [link]
-
-### **Training & Workshops**
-- Introductory Power BI training: [schedule]
-- Dashboard navigation workshop: [schedule]
-- Advanced DAX certification course: [schedule]
 
 ---
 
@@ -439,28 +384,6 @@ This project is confidential and proprietary to [Your Organization]. Unauthorize
 - [ ] Joined #call-center-analytics Slack channel
 - [ ] Saved a copy for personal reference
 
----
-
-## 📧 Feedback & Suggestions
-
-We welcome feedback to improve this dashboard. Please provide:
-
-**Bug Reports:**
-- Description of the issue
-- Steps to reproduce
-- Screenshots (if applicable)
-- Expected vs. actual behavior
-
-**Feature Requests:**
-- Description of desired feature
-- Business justification
-- Mock-up or example (if available)
-- Priority level (Low/Medium/High)
-
-**Submit via:**
-- Email: [Your Email]
-- Slack: Direct message to [Your Name]
-- Internal Portal: [Link to submission form]
 
 ---
 
@@ -472,8 +395,6 @@ Track the success of this project through:
 - **Decision Quality:** Improvement in data-driven decisions made
 - **User Satisfaction:** NPS of the dashboard among users
 - **Business Impact:** Revenue/cost improvements linked to dashboard insights
-
-Current Dashboard NPS: [Add your score]
 
 ---
 
