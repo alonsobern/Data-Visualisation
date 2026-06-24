@@ -237,6 +237,6 @@ I am a Data Analytics professional with a background in IT Infrastructure and Da
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/alonsobern
-- LinkedIn: (Add LinkedIn URL)
+- LinkedIn: [(Manuel Bernabe)](https://www.linkedin.com/in/manuelbernabe/)
 
 If you found this project interesting, feel free to ⭐ star the repository.
