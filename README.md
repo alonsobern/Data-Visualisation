@@ -4,6 +4,17 @@
 
 This repository showcases my expertise in transforming raw data into meaningful insights through advanced visualization and analytics techniques. I specialize in data manipulation, feature engineering, and creating interactive dashboards that drive informed decision-making.
 
+### Highlights
+✔ 4 Machine Learning Projects
+
+✔ Classification, Regression & Recommender Systems
+
+✔ End-to-End Data Science Workflow
+
+✔ Streamlit Deployment Experience
+
+✔ Python, SQL, Power BI & Machine Learning
+
 ---
 
 ## 📊 Core Competencies
